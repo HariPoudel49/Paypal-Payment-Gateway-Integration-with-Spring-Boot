@@ -1,0 +1,5 @@
+paypal:
+    client-id: .......(update your client-id)
+    client-secret: ..........(update your client-id)
+    mode: sandbox
+
