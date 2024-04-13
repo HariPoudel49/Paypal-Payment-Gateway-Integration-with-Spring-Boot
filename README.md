@@ -26,5 +26,14 @@ twilio.phoneNumber=........(update your phoneNumber)
 		</dependency>
  ```
 
+## screenshots
 
+### payment Creation
+![Screenshot (127)](https://github.com/HariPoudel49/Paypal-Payment-Gateway-Integration-with-Spring-Boot/assets/85866119/3379203e-7bc5-4201-a383-1b675e264a10)
+
+### sandbox paypal
+![Screenshot (128)](https://github.com/HariPoudel49/Paypal-Payment-Gateway-Integration-with-Spring-Boot/assets/85866119/29e693e8-ad4c-418c-81d0-26ecaf84e1fc)
+
+### success message
+![Screenshot (129)](https://github.com/HariPoudel49/Paypal-Payment-Gateway-Integration-with-Spring-Boot/assets/85866119/045c9eb3-c401-429c-bc8d-97e9e5b00dc7)
 
