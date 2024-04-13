@@ -6,10 +6,10 @@
 
 ## Update application.Yml
 ```bash
-server.port=9189
-twilio.AccountSID= .......(update your AccountSID)
-twilio.AuthToken=..........(update your AuthToken)
-twilio.phoneNumber=........(update your phoneNumber)
+paypal:
+    client-id: .......(update your client-id)
+    client-secret: ..........(update your client-id)
+    mode: sandbox
 ```
 ## Dependecies
 ```bash
